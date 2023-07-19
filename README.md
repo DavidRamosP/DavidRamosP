@@ -1,9 +1,3 @@
-
-
-<!--
-**DavidRamosP/DavidRamosP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:
 - 🔭 I’m currently working on develop of web and mobile applications<br>- 👯 I’m looking to collaborate on projects of Java, Kotlin and Switf<br>- 📫 How to reach me:  My Linkedin profile is shared below.
 
